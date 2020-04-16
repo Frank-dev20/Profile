@@ -1,0 +1,42 @@
+main{
+   justify-content: center;
+   align-items: center;
+   height: 100px;
+   font-family: monospace;
+
+}
+
+h2{
+   color: dark blue; 
+   justify-content: center;
+}
+
+img{
+  position: top;
+}
+
+p{
+  color: black;
+  text-align: center;
+}
+
+body{
+    background-color: #ADD8E6;
+    padding: 25px;
+}
+
+form{
+    padding: 15px;
+    background-color: white;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+h3{
+    color: white;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
